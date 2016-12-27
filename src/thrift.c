@@ -1,3 +1,5 @@
+#define _BSD_SOURCE
+#define __USE_BSD
 #include <TH/TH.h>
 #include "luaT.h"
 #include "endianutils.h"
